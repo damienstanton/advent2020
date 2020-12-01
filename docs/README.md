@@ -4,4 +4,4 @@ See the [Advent of code website][1].
 
 See LICENSE for details.
 
-1: https://adventofcode.com/
+[1]: https://adventofcode.com/
